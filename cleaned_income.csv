@@ -1,0 +1,643 @@
+City,Median Income,State
+Auburn,32859,Alabama
+Birmingham,91740,Alabama
+Dothan,30920,Alabama
+Hoover,38178,Alabama
+Huntsville,99557,Alabama
+Mobile,79383,Alabama
+Montgomery,82966,Alabama
+Tuscaloosa,42870,Alabama
+Anchorage,109125,Alaska
+Avondale,32208,Arizona
+Buckeye,32161,Arizona
+Casas Adobes,32025,Arizona
+Chandler,105611,Arizona
+Flagstaff,30080,Arizona
+Gilbert,94016,Arizona
+Glendale,89664,Arizona
+Goodyear,38956,Arizona
+Maricopa,23278,Arizona
+Mesa,203676,Arizona
+Peoria,74637,Arizona
+Phoenix,621234,Arizona
+Queen Creek,24749,Arizona
+San Tan Valley,36966,Arizona
+Scottsdale,118561,Arizona
+Surprise,59045,Arizona
+Tempe,76512,Arizona
+Tucson,233257,Arizona
+Yuma,41742,Arizona
+Conway,28356,Arkansas
+Fayetteville,42333,Arkansas
+Fort Smith,36439,Arkansas
+Jonesboro,32817,Arkansas
+Little Rock,89358,Arkansas
+Rogers,27613,Arkansas
+Springdale,29550,Arkansas
+Alameda,30642,California
+Alhambra,30242,California
+Anaheim,109885,California
+Antioch,37645,California
+Apple Valley,26684,California
+Arden-Arcade,37548,California
+Bakersfield,130761,California
+Baldwin Park,18805,California
+Bellflower,23352,California
+Berkeley,49088,California
+Brentwood,22600,California
+Buena Park,23777,California
+Burbank,43209,California
+Camarillo,26253,California
+Carlsbad,43752,California
+Carmichael,30982,California
+Carson,27512,California
+Castro Valley,23198,California
+Chico,44270,California
+Chino,26314,California
+Chino Hills,24476,California
+Chula Vista,88029,California
+Citrus Heights,34364,California
+Clovis,44194,California
+Compton,23447,California
+Concord,47248,California
+Corona,51110,California
+Costa Mesa,42336,California
+Daly City,33137,California
+Davis,25542,California
+Downey,33472,California
+Dublin,N,California
+East Los Angeles,29208,California
+Eastvale,18433,California
+El Cajon,32145,California
+Elk Grove,53383,California
+El Monte,29314,California
+Escondido,47740,California
+Fairfield,38515,California
+Folsom,32761,California
+Fontana,59598,California
+Fremont,81639,California
+Fresno,180634,California
+Fullerton,49425,California
+Garden Grove,50343,California
+Glendale,76375,California
+Hawthorne,32299,California
+Hayward,49029,California
+Hemet,33674,California
+Hesperia,29608,California
+Huntington Beach,75314,California
+Indio,31048,California
+Inglewood,37918,California
+Irvine,111471,California
+Jurupa Valley,30398,California
+Lake Elsinore,20252,California
+Lake Forest,29721,California
+Lakewood,25033,California
+Lancaster,52431,California
+Livermore,29208,California
+Lodi,23274,California
+Long Beach,176407,California
+Los Angeles,1460167,California
+Lynwood,16131,California
+Madera,19945,California
+Manteca,30532,California
+Menifee,39358,California
+Merced,27221,California
+Milpitas,25653,California
+Mission Viejo,34477,California
+Modesto,76577,California
+Moreno Valley,56294,California
+Mountain View,35859,California
+Murrieta,36867,California
+Napa,30838,California
+Newport Beach,36300,California
+Norwalk,27925,California
+Oakland,182014,California
+Oceanside,63683,California
+Ontario,54719,California
+Orange,46584,California
+Oxnard,55777,California
+Palmdale,47380,California
+Palo Alto,27768,California
+Pasadena,57025,California
+Perris,20943,California
+Pittsburg,24968,California
+Pleasanton,26569,California
+Pomona,42390,California
+Rancho Cordova,28916,California
+Rancho Cucamonga,58173,California
+Redding,37380,California
+Redlands,27161,California
+Redondo Beach,29220,California
+Redwood City,29831,California
+Rialto,26568,California
+Richmond,45299,California
+Riverside,96201,California
+Rocklin,27308,California
+Roseville,61142,California
+Sacramento,202421,California
+Salinas,43233,California
+San Bernardino,64370,California
+San Buenaventura (Ventura),43032,California
+San Diego,537532,California
+San Francisco,372027,California
+San Jose,331229,California
+San Leandro,31539,California
+San Marcos,31360,California
+San Mateo,39795,California
+San Ramon,30872,California
+Santa Ana,83498,California
+Santa Barbara,38553,California
+Santa Clara,51014,California
+Santa Clarita,76446,California
+Santa Maria,28422,California
+Santa Monica,48189,California
+Santa Rosa,70361,California
+Simi Valley,44629,California
+South Gate,27422,California
+Stockton,101924,California
+Sunnyvale,58756,California
+Temecula,35801,California
+Thousand Oaks,46158,California
+Torrance,55836,California
+Tracy,27880,California
+Tulare,20967,California
+Turlock,25660,California
+Tustin,26025,California
+Union City,21920,California
+Upland,28043,California
+Vacaville,35647,California
+Vallejo,44936,California
+Victorville,38786,California
+Visalia,48446,California
+Vista,31866,California
+Walnut Creek,32550,California
+West Covina,31349,California
+Westminster,28524,California
+Whittier,27466,California
+Yorba Linda,22960,California
+Yuba City,23521,California
+Arvada,49987,Colorado
+Aurora,149344,Colorado
+Boulder,44722,Colorado
+Broomfield,33563,Colorado
+Castle Rock,29100,Colorado
+Centennial,41393,Colorado
+Colorado Springs,208035,Colorado
+Commerce City,21705,Colorado
+Denver,342996,Colorado
+Fort Collins,72318,Colorado
+Grand Junction,31087,Colorado
+Greeley,42813,Colorado
+Highlands Ranch,39866,Colorado
+Lakewood,71477,Colorado
+Longmont,42201,Colorado
+Loveland,35134,Colorado
+Pueblo,46921,Colorado
+Thornton,52600,Colorado
+Westminster,51565,Colorado
+Bridgeport,54695,Connecticut
+Danbury,32993,Connecticut
+Hartford,49229,Connecticut
+New Britain,30047,Connecticut
+New Haven,57392,Connecticut
+Norwalk,37777,Connecticut
+Stamford,55324,Connecticut
+Waterbury,45898,Connecticut
+Wilmington,32131,Delaware
+Alafaya,34029,Florida
+Boca Raton,41274,Florida
+Boynton Beach,31874,Florida
+Brandon,44579,Florida
+Cape Coral,83021,Florida
+Clearwater,52536,Florida
+Coral Springs,46223,Florida
+Davie,38969,Florida
+Daytona Beach,33906,Florida
+Deerfield Beach,34846,Florida
+Delray Beach,30118,Florida
+Deltona,33155,Florida
+Doral,26222,Florida
+Fort Lauderdale,81232,Florida
+Fort Myers,39447,Florida
+Four Corners,27549,Florida
+Gainesville,65576,Florida
+Hialeah,78792,Florida
+Hollywood,61197,Florida
+Homestead,26901,Florida
+Horizon West,24678,Florida
+Jacksonville,409221,Florida
+Kendall,28984,Florida
+Kissimmee,28697,Florida
+Lakeland,51663,Florida
+Largo,37626,Florida
+Lauderhill,27832,Florida
+Lehigh Acres,40585,Florida
+Melbourne,36223,Florida
+Miami,201102,Florida
+Miami Beach,37894,Florida
+Miami Gardens,34688,Florida
+Miramar,44827,Florida
+North Port,35320,Florida
+Ocala,29755,Florida
+Orlando,141669,Florida
+Palm Bay,50448,Florida
+Palm Coast,43003,Florida
+Palm Harbor,27659,Florida
+Pembroke Pines,63065,Florida
+Pine Hills,24671,Florida
+Plantation,36927,Florida
+Poinciana,26064,Florida
+Pompano Beach,51440,Florida
+Port Charlotte,26105,Florida
+Port Orange,27070,Florida
+Port St. Lucie,90069,Florida
+Riverview,44076,Florida
+St. Cloud,23749,Florida
+St. Petersburg,123605,Florida
+Sanford,26511,Florida
+Spring Hill,47821,Florida
+Sunrise,34455,Florida
+Tallahassee,87824,Florida
+Tamarac,32913,Florida
+Tampa,169317,Florida
+The Villages,45000,Florida
+Town 'n' Country,31323,Florida
+Wesley Chapel,26661,Florida
+Weston,22243,Florida
+West Palm Beach,50890,Florida
+Albany,28379,Georgia
+Alpharetta,26224,Georgia
+Athens-Clarke County unified government (balance),54856,Georgia
+Atlanta,233047,Georgia
+Augusta-Richmond County consolidated government (balance),76232,Georgia
+Columbus,82007,Georgia
+Johns Creek,28800,Georgia
+Macon-Bibb County,60919,Georgia
+Roswell,35275,Georgia
+Sandy Springs,50453,Georgia
+Savannah,60129,Georgia
+South Fulton,40298,Georgia
+Warner Robins,33527,Georgia
+Urban Honolulu,137203,Hawaii
+Boise City,104336,Idaho
+Caldwell,21765,Idaho
+Idaho Falls,24008,Idaho
+Meridian,50116,Idaho
+Nampa,41060,Idaho
+Arlington Heights village,32370,Illinois
+Aurora,61278,Illinois
+Bloomington,33447,Illinois
+Bolingbrook village,25142,Illinois
+Champaign,40599,Illinois
+Chicago,1179081,Illinois
+Cicero,24167,Illinois
+Decatur,30783,Illinois
+Elgin,41062,Illinois
+Evanston,31310,Illinois
+Joliet,52512,Illinois
+Naperville,55580,Illinois
+Palatine village,27531,Illinois
+Peoria,49577,Illinois
+Rockford,62552,Illinois
+Schaumburg village,31791,Illinois
+Skokie village,23942,Illinois
+Springfield,51843,Illinois
+Waukegan,31784,Illinois
+Bloomington,33738,Indiana
+Carmel,38523,Indiana
+Evansville,51696,Indiana
+Fishers,38270,Indiana
+Fort Wayne,115195,Indiana
+Gary,27688,Indiana
+Hammond,29271,Indiana
+Indianapolis(balance),368064,Indiana
+Lafayette,31331,Indiana
+Muncie,26505,Indiana
+Noblesville,28543,Indiana
+South Bend,42331,Indiana
+Ames,26633,Iowa
+Ankeny,30257,Iowa
+Cedar Rapids,58123,Iowa
+Davenport,44171,Iowa
+Des Moines,90465,Iowa
+Iowa City,30588,Iowa
+Sioux City,32278,Iowa
+Waterloo,28471,Iowa
+West Des Moines,33094,Iowa
+Kansas City,57487,Kansas
+Lawrence,41551,Kansas
+Olathe,53252,Kansas
+Overland Park,85022,Kansas
+Shawnee,28168,Kansas
+Topeka,55148,Kansas
+Wichita,163555,Kansas
+Bowling Green,32904,Kentucky
+Lexington-Fayette urban county,141680,Kentucky
+Louisville/Jefferson County metro government (balance),264694,Kentucky
+Baton Rouge,86978,Louisiana
+Kenner,23924,Louisiana
+Lafayette,53953,Louisiana
+Lake Charles,33140,Louisiana
+Metairie,61486,Louisiana
+New Orleans,155005,Louisiana
+Shreveport,78443,Louisiana
+Portland,34067,Maine
+Baltimore,259385,Maryland
+Bethesda,28973,Maryland
+Columbia,42978,Maryland
+Ellicott City,25715,Maryland
+Frederick,34562,Maryland
+Gaithersburg,25813,Maryland
+German,34372,Maryland
+Glen Burnie,29159,Maryland
+Rockville,26261,Maryland
+Silver Spring,35086,Maryland
+Waldorf,31345,Maryland
+Boston,288129,Massachusetts
+Brockton,35485,Massachusetts
+Cambridge,49310,Massachusetts
+Fall River,43425,Massachusetts
+Framingham,25727,Massachusetts
+Haverhill,27274,Massachusetts
+Lawrence,32631,Massachusetts
+Lowell,43220,Massachusetts
+Lynn,36403,Massachusetts
+Malden,27716,Massachusetts
+New Bedford,41300,Massachusetts
+Newton,32074,Massachusetts
+Quincy,46448,Massachusetts
+Somerville,37108,Massachusetts
+Springfield,56229,Massachusetts
+Worcester,81973,Massachusetts
+Ann Arbor,49077,Michigan
+Dearborn,38777,Michigan
+Detroit,255857,Michigan
+Farmington Hills,37173,Michigan
+Flint,33879,Michigan
+Grand Rapids,80311,Michigan
+Kalamazoo,30482,Michigan
+Lansing,52849,Michigan
+Livonia,38023,Michigan
+Novi,26962,Michigan
+Rochester Hills,28914,Michigan
+Southfield,35348,Michigan
+Sterling Heights,52105,Michigan
+Troy,34743,Michigan
+Warren,54644,Michigan
+Westland,35723,Michigan
+Wyoming,30586,Michigan
+Blaine,25670,Minnesota
+Bloomington,39370,Minnesota
+Brooklyn Park,29325,Minnesota
+Duluth,38843,Minnesota
+Eagan,27978,Minnesota
+Lakeville,25289,Minnesota
+Maple Grove,29987,Minnesota
+Minneapolis,198866,Minnesota
+Plymouth,29393,Minnesota
+Rochester,51184,Minnesota
+St. Cloud,25769,Minnesota
+St. Paul,126409,Minnesota
+Woodbury,31280,Minnesota
+Gulfport,31011,Mississippi
+Jackson,60636,Mississippi
+Columbia,53894,Missouri
+Independence,51311,Missouri
+Kansas City,227773,Missouri
+Lee's Summit,40435,Missouri
+O'Fallon,34714,Missouri
+St. Charles,31316,Missouri
+St. Joseph,28196,Missouri
+St. Louis,150404,Missouri
+Springfield,79707,Missouri
+Billings,52878,Montana
+Missoula,35775,Montana
+Lincoln,126828,Nebraska
+Omaha,204135,Nebraska
+Enterprise,90011,Nevada
+Henderson,136680,Nevada
+Las Vegas,252848,Nevada
+North Las Vegas,92288,Nevada
+Paradise,74847,Nevada
+Reno,114623,Nevada
+Sparks,41595,Nevada
+Spring Valley,82320,Nevada
+Sunrise Manor,67326,Nevada
+Manchester,50053,New Hampshire
+Nashua,36451,New Hampshire
+Bayonne,30335,New Jersey
+Camden,27511,New Jersey
+Clifton,31968,New Jersey
+East Orange,30360,New Jersey
+Elizabeth,45491,New Jersey
+Jersey City,130020,New Jersey
+Lakewood,13406,New Jersey
+Newark,114599,New Jersey
+Passaic,21234,New Jersey
+Paterson,51969,New Jersey
+Toms River,36998,New Jersey
+Trenton,32131,New Jersey
+Union City,25001,New Jersey
+Albuquerque,243664,New Mexico
+Las Cruces,50409,New Mexico
+Rio Rancho,42054,New Mexico
+Santa Fe,42397,New Mexico
+Albany,44875,New York
+Buffalo,123347,New York
+Cheektowaga,34150,New York
+Mount Vernon,27369,New York
+New Rochelle,29052,New York
+New York,3394750,New York
+Rochester,91471,New York
+Schenectady,28730,New York
+Syracuse,60652,New York
+Yonkers,79190,New York
+Apex,27306,North Carolina
+Asheville,39811,North Carolina
+Cary,71248,North Carolina
+Charlotte,375680,North Carolina
+Concord,42777,North Carolina
+Durham,127514,North Carolina
+Fayetteville,83410,North Carolina
+Gastonia,33496,North Carolina
+Greensboro,125752,North Carolina
+Greenville,41037,North Carolina
+High Point,45442,North Carolina
+Jacksonville,24538,North Carolina
+Raleigh,211433,North Carolina
+Wilmington,59730,North Carolina
+Winston-Salem,107693,North Carolina
+Bismarck,34598,North Dakota
+Fargo,60510,North Dakota
+Akron,85349,Ohio
+Canton,29864,Ohio
+Cincinnati,149698,Ohio
+Cleveland,168307,Ohio
+Columbus,394905,Ohio
+Dayton,57882,Ohio
+Lorain,27930,Ohio
+Parma,34406,Ohio
+Toledo,117902,Ohio
+Broken Arrow,44802,Oklahoma
+Edmond,39282,Oklahoma
+Lawton,34205,Oklahoma
+Norman,54715,Oklahoma
+Oklahoma City,284755,Oklahoma
+Tulsa,173905,Oklahoma
+Beaverton,43874,Oregon
+Bend,46318,Oregon
+Eugene,78974,Oregon
+Gresham,42173,Oregon
+Hillsboro,42575,Oregon
+Medford,34867,Oregon
+Portland,292037,Oregon
+Salem,68817,Oregon
+Allen,46104,Pennsylvania
+Bethlehem,32208,Pennsylvania
+Erie,39704,Pennsylvania
+Philadelphia,688112,Pennsylvania
+Pittsburgh,140615,Pennsylvania
+Reading,31358,Pennsylvania
+Scranton,31094,Pennsylvania
+Cranston,31571,Rhode Island
+Pawtucket,33667,Rhode Island
+Providence,71374,Rhode Island
+Warwick,36989,Rhode Island
+Charleston,69588,South Carolina
+Columbia,58713,South Carolina
+Greenville,35609,South Carolina
+Mount Pleasant,40023,South Carolina
+North Charleston,53710,South Carolina
+Rock Hill,31189,South Carolina
+Rapid City,33880,South Dakota
+Sioux Falls,90489,South Dakota
+Chattanooga,81086,Tennessee
+Clarksville,71172,Tennessee
+Franklin,35730,Tennessee
+Jackson,28458,Tennessee
+Johnson City,31162,Tennessee
+Knoxville,87036,Tennessee
+Memphis,257188,Tennessee
+Murfreesboro,63223,Tennessee
+Nashville-Davidson metropolitan government (balance),330506,Tennessee
+Abilene,47511,Texas
+Allen,38830,Texas
+Amarillo,80754,Texas
+Arlington,150945,Texas
+Atascocita,38628,Texas
+Austin,475680,Texas
+Bay,31402,Texas
+Beaumont,44169,Texas
+Brownsville,64083,Texas
+Bryan,33775,Texas
+Carrollton,52503,Texas
+Cedar Park,27998,Texas
+College Station,47029,Texas
+Conroe,42134,Texas
+Corpus Christi,118392,Texas
+Dallas,536727,Texas
+Denton,59711,Texas
+Edinburg,34958,Texas
+El Paso,249362,Texas
+Flower Mound,29171,Texas
+Fort Worth,346392,Texas
+Frisco,80665,Texas
+Garland,80786,Texas
+George,42239,Texas
+Grand Prairie,70750,Texas
+Harlingen,25629,Texas
+Houston,942146,Texas
+Irving,95909,Texas
+Killeen,64777,Texas
+Laredo,79072,Texas
+League City,41978,Texas
+Leander,28615,Texas
+Lewisville,50672,Texas
+Longview,32201,Texas
+Lubbock,108609,Texas
+McAllen,51319,Texas
+McKinney,74833,Texas
+Mansfield,26245,Texas
+Mesquite,49690,Texas
+Midland,53640,Texas
+Mission,29183,Texas
+Missouri City,26271,Texas
+New Braunfels,42756,Texas
+North Richland Hills,27385,Texas
+Odessa,54163,Texas
+Pasadena,49618,Texas
+Pearland,45686,Texas
+Pflugerville,24333,Texas
+Pharr,23919,Texas
+Plano,114555,Texas
+Richardson,45822,Texas
+Round Rock,48682,Texas
+Rowlett,23939,Texas
+San Angelo,39231,Texas
+San Antonio,558796,Texas
+San Marcos,28741,Texas
+Spring,22132,Texas
+Sugar Land,36977,Texas
+Temple,35445,Texas
+The Woodlands,44480,Texas
+Tyler,36292,Texas
+Victoria,25267,Texas
+Waco,52857,Texas
+Wichita Falls,38473,Texas
+Layton,28387,Utah
+Lehi,25416,Utah
+Ogden,32848,Utah
+Orem,31948,Utah
+Provo,36198,Utah
+St. George,38886,Utah
+Salt Lake City,92626,Utah
+Sandy,35081,Utah
+South Jordan,27610,Utah
+West Jordan,36479,Utah
+West Valley City,43539,Utah
+Alexandria,76890,Virginia
+Arlington,114097,Virginia
+Centreville,25109,Virginia
+Chesapeake,94056,Virginia
+Dale City,19694,Virginia
+Hampton,57645,Virginia
+Lynchburg,28916,Virginia
+Newport News,76086,Virginia
+Norfolk,94056,Virginia
+Portsmouth,40661,Virginia
+Reston,29528,Virginia
+Richmond,104332,Virginia
+Roanoke,45061,Virginia
+Suffolk,39203,Virginia
+Virginia Beach,179291,Virginia
+Auburn,30938,Washington
+Bellevue,62868,Washington
+Bellingham,42207,Washington
+Everett,46726,Washington
+Federal Way,37759,Washington
+Kennewick,30295,Washington
+Kent,50481,Washington
+Kirkland,39893,Washington
+Marysville,27002,Washington
+Pasco,26284,Washington
+Redmond,36551,Washington
+Renton,40968,Washington
+Sammamish,21792,Washington
+Seattle,364627,Washington
+South Hill,23059,Washington
+Spokane,95061,Washington
+Spokane Valley,45025,Washington
+Tacoma,97027,Washington
+Vancouver,84778,Washington
+Yakima,37918,Washington
+Appleton,30831,Wisconsin
+Eau Claire,30280,Wisconsin
+Green Bay,45483,Wisconsin
+Janesville,27361,Wisconsin
+Kenosha,42461,Wisconsin
+Madison,134512,Wisconsin
+Milwaukee,227173,Wisconsin
+Oshkosh,28147,Wisconsin
+Racine,31700,Wisconsin
+Waukesha,30668,Wisconsin
+Cheyenne,30643,Wyoming
